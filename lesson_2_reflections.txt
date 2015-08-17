@@ -18,3 +18,15 @@ _________________________________________
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Create a branch helps the programmer to create a new path to developer the program. It allow to create parallel paths of development and try new solutions and perspectives.
+
+____________________________________________
+
+How do the diagrams help you visualize the branch structure?
+
+When I build a diagram I can understand more clearly the structure of the branches so, I can to move on by the commits knowing what each branch and commit are doing
+
+______________________________________________
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+I prefer merge manually. It allow me to make some branches as backup and have more control about my project.
