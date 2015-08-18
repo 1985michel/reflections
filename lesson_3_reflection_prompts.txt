@@ -26,3 +26,9 @@ What is the benefit of having a copy of the last known state of the remote store
 First, you avoid the re-work. So, you don't do the work that another colaborator did.
 
 Second, you spend your time on the next feature.
+
+_________________________________________________________________
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without to use Git or GitHub to collaborate work is harder. Mainly if you are part of a remote team of development. Without git, you could use dropbox but the chance of have a broken code or re-work is very big than with git. Now that I am learning about Git, I can't imagine me working without it. In truly, I guess that I will use git for all my projects.
