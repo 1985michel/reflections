@@ -32,3 +32,11 @@ _________________________________________________________________
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Without to use Git or GitHub to collaborate work is harder. Mainly if you are part of a remote team of development. Without git, you could use dropbox but the chance of have a broken code or re-work is very big than with git. Now that I am learning about Git, I can't imagine me working without it. In truly, I guess that I will use git for all my projects.
+
+__________________________________________________________________
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Well, even that I need to make some change that could put the master project in dangerous. So, I can to creat a new branch [ using the command git branch new_branch] and then checkout to it [ using the command git checkout new_branch]. Now I can make experimental changes and then just it is good to the project I would to merge that changes to the master branch. Another reason to create a new branch could be in the collaborate work where I would like to make some changes whithout impact the main branch. It generally happs when I don't have permition to chance the master branch.
+
+This approach have many benefits like to get freedom to make my work without fear to breaking the master branch.
